@@ -1,3 +1,5 @@
 # hello-world-test
 First creation of a repository. 
-Testing the branching.
+
+Hello World. This is a test to check out the repository features.
+
